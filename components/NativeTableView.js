@@ -122,22 +122,18 @@ function NativeText(props) {
     "h1": {
       fontSize: 24,
       fontWeight: 600,
-      fontFamily: 'Papillon-Semibold',
     },
     "h2": {
       fontSize: 19,
       fontWeight: 600,
-      fontFamily: 'Papillon-Semibold',
     },
     "h3": {
       fontSize: 18,
       fontWeight: 600,
-      fontFamily: 'Papillon-Semibold',
     },
     "h4": {
       fontSize: 16,
       fontWeight: 600,
-      fontFamily: 'Papillon-Semibold',
     },
     "subtitle1": {
       fontSize: 13,
